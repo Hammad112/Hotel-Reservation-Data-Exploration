@@ -1,7 +1,3 @@
-Sure! Here's a detailed README file for your repository:
-
----
-
 # HotelReservationInsights
 
 Welcome to the HotelReservationInsights repository! This project focuses on the Exploratory Data Analysis (EDA) of a Hotel Reservation Dataset and prepares the data for Machine Learning (ML) and Deep Learning algorithms.
