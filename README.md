@@ -8,19 +8,19 @@ Welcome to the HotelReservationInsights repository! This project focuses on the 
 The dataset used in this project contains various features related to hotel reservations, such as booking details, customer information, and stay specifics. Here's an overview of the data structure:
 
 - **Data Info:** 
- ```bash
+  ```bash
    data.info() 
    ```
     
 
 - **Data Description:**
            
-     ```bash
+  ```bash
    data.describe()
    ``` 
 
 - **Data Shape:**
-     ```bash
+  ```bash
    data.shape
    ```
  
