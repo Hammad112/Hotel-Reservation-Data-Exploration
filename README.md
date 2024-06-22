@@ -94,7 +94,3 @@ To get started with this project, follow these steps:
 
 
 By engaging with the HotelReservationInsights repository, you'll gain valuable hands-on experience in EDA and data preparation for ML and Deep Learning, preparing you for a wide range of data-related tasks in your academic, professional, or personal projects. Happy analyzing!
-
----
-
-Feel free to customize the placeholders and sections with actual outputs and details from your project.
