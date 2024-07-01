@@ -3,6 +3,8 @@
 Welcome to the HotelReservationInsights repository! This project focuses on the Exploratory Data Analysis (EDA) of a Hotel Reservation Dataset and prepares the data for Machine Learning (ML) and Deep Learning algorithms.
 
 ## Repository Content
+## Exploratory Data Analysis
+![EDA](https://github.com/Hammad112/Hotel-Reservation-Data-Exploration/assets/95902997/32607787-7ec4-4efc-9b26-31ed72ade5a6)
 
 ### 1. Data Structure
 The dataset used in this project contains various features related to hotel reservations, such as booking details, customer information, and stay specifics. Here's an overview of the data structure:
