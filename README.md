@@ -6,6 +6,10 @@ Welcome to the HotelReservationInsights repository! This project focuses on the 
 ## Exploratory Data Analysis
 ![EDA](https://github.com/Hammad112/Hotel-Reservation-Data-Exploration/assets/95902997/32607787-7ec4-4efc-9b26-31ed72ade5a6)
 
+## Pandas CheatSheet
+![EDA Pandas](https://github.com/Hammad112/Hotel-Reservation-Data-Exploration/assets/95902997/c652f29f-6021-4cb1-971c-ba6e128551de)
+
+
 ### 1. Data Structure
 The dataset used in this project contains various features related to hotel reservations, such as booking details, customer information, and stay specifics. Here's an overview of the data structure:
 
